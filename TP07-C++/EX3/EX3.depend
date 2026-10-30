@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1793201966 source:c:\users\cli\onedrive\desktop\tp07-c++\ex3\comptebancaire.cpp
+	"CompteBancaire.hpp"
+
+1793202050 c:\users\cli\onedrive\desktop\tp07-c++\ex3\comptebancaire.hpp
+	<string>
+	<iostream>
+
+1793201689 source:c:\users\cli\onedrive\desktop\tp07-c++\ex3\main.cpp
+	"CompteBancaire.hpp"
+	<iostream>
+	<windows.h>
+
